@@ -20,7 +20,7 @@ const Intro = () => {
                     <span>FrontEnd Developer with high level of experience in web designing and development, producting the Quality work </span>
                 </div>
                 <button className="button i-button">
-                    Hire Me
+                    Hire My
                 </button>
                 <div className="i-icons">
                     <img src={Github} alt="" />
