@@ -1,6 +1,10 @@
 
 @import url('http://fonts.cdnfonts.com/css/gumela');
-
+#root{
+  max-width: 1540px;
+  margin: 0 auto;
+  width: 100%;
+}
 :root {
   --yellow: #f5c32c;
   --orange: #fca61f;
