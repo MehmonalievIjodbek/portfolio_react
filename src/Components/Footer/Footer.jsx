@@ -20,7 +20,7 @@ const Footer = () => {
           </a>
           <a href="tg:mekhmonaliev_i" target='_blank'> <Telegram color="white" size={"3rem"} /></a>
 
-          <a href="github:https://github.com/MehmonalievIjodbek" target='_blank'> <Gitub color="white" size={"3rem"} /></a>
+          <a href="https://github.com/MehmonalievIjodbek" target='_blank'> <Gitub color="white" size={"3rem"} /></a>
 
         </div>
       </div>

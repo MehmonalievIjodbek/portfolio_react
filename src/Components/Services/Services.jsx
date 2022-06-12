@@ -4,7 +4,7 @@ import HeartEmoji from '../../img/heartemoji.png';
 import Glasses from '../../img/glasses.png';
 import Humble from '../../img/humble.png';
 import Card from '../Card/Card';
-import Resume from './JS3.docx'
+import Resume from './rezyume.drawio'
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 const Services = () => {
@@ -23,9 +23,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
-          <br />
-          ispum is simpley dummy text of printing
+          Html, Css, JavaScript, React, Nodejs, Express, TypeScript,
+          <br/>
+          Figma, OOP, jQuery, Sass, Scss, Bootstrap
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
